@@ -1,6 +1,6 @@
 @extends('layouts.default')
 
 @section('content')
-fauve
+fauvee
 
 @endsection
