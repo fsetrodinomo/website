@@ -1,5 +1,5 @@
 @extends('layouts.default')
 
 @section('content')
-testing
+    Content hiero
 @endsection
